@@ -1,0 +1,93 @@
+.warna1 {
+    background-color: #988820;
+}
+
+.warna2 {
+    background-color: #988820;
+}
+
+.warna3 {
+    background-color: #f5edb3;
+}
+
+.warna4 {
+    background-color: #ffff;
+}
+
+.banner {
+    height: 80vh;
+    width: 100%;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/banner.jpg');
+    background-size: cover;       
+    background-position: center;
+}
+
+.highlight-kategori{
+    height: 250px;
+}
+
+.kategori-makanan{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/ApGTGKkoTvnqj742Uf6X.jpg'); 
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-minuman{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/Y5SjoINNn7cCwJLAowSe.jpg'); 
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-cemilan{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/0hiuuisplXaMtR62RFdU.jpg'); 
+    background-size: cover;
+    background-position: center;
+}
+
+.no-decoration{
+    text-decoration: none;
+    color: white;
+}
+
+.no-decoration:hover {
+    color: #f5edb3;
+}
+
+.text-harga{
+    font-size: 22px;
+    color: #988820;
+}
+
+.image-box{
+    height: 250px;
+}
+
+.image-box img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.content-subscribe{
+    background-color: #988820;
+}
+
+.content-subscribe a {
+    color: #ffff;
+}
+
+.banner2 {
+    height: 55vh;
+    width: 100%;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/banner.jpg');
+    background-size: cover;       
+    background-position: 50% 55%;   
+}
+
+.produk-terkait-image {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
